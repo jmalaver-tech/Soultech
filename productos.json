@@ -1,0 +1,37 @@
+[
+    {
+        "id": "101",
+        "nombre": "Pulidora Makita",
+        "imagen": "imagenes/img_1.png",
+        "categoria": "mini-Pulidoras",
+        "descripcion": "Uso industrial, 7 pulgadas"
+    },
+    {
+        "id": "102",
+        "nombre": "Lijadora Makita",
+        "imagen": "imagenes/img_2.png",
+        "categoria": "Lijadoras",
+        "descripcion": "Orbital profesional"
+    },
+    {
+        "id": "103",
+        "nombre": "Rotomartillo Makita",
+        "imagen": "imagenes/img_3.png",
+        "categoria": "Perforación",
+        "descripcion": "Mandril de 1/2 pulgada"
+    },
+    {
+        "id": "104",
+        "nombre": "Pulidora bosch",
+        "imagen": "imagenes/img_4.png",
+        "categoria": "Pulidoras",
+        "descripcion": "pulidora 3/4"
+    },
+    {
+        "id": "105",
+        "nombre": "Demoledor generico",
+        "imagen": "imagenes/img_5.png",
+        "categoria": "Perforación",
+        "descripcion": "Taladro Demoledor"
+    }
+]
